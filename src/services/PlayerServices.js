@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-    baseURL: 'https://240c-187-11-110-154.sa.ngrok.io/',
+    baseURL: 'http://enzoalencar.pythonanywhere.com/',
     headers: {
         'ngrok-skip-browser-warning': 'true',
         // 'Access-Control-Allow-Origin': '*',
