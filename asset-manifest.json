@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/futranking/static/css/main.4e56a43d.css",
+    "main.js": "/futranking/static/js/main.85b15ce8.js",
+    "index.html": "/futranking/index.html",
+    "main.4e56a43d.css.map": "/futranking/static/css/main.4e56a43d.css.map",
+    "main.85b15ce8.js.map": "/futranking/static/js/main.85b15ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e56a43d.css",
+    "static/js/main.85b15ce8.js"
+  ]
+}
