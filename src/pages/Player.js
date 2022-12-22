@@ -48,7 +48,7 @@ const Player = () => {
                         </div> 
                     </div>
             </div>
-            <div className="mt-4 md:mt-0 text-center md:text-left items-center md:items-start flex flex-col gap-2 font-mono text-lg">
+            <div className="md:w-2/5 mt-4 md:mt-0 text-center md:text-left items-center md:items-start flex flex-col gap-2 font-mono text-lg">
                 <div className="font-sans">
                     <h1 className="font-bold text-2xl">{player.nickname}</h1>
                     <p className="italic text-md">{player.name}</p>
