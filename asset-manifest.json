@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/futranking/static/css/main.4e56a43d.css",
-    "main.js": "/futranking/static/js/main.a7db9722.js",
+    "main.js": "/futranking/static/js/main.435a1995.js",
     "index.html": "/futranking/index.html",
     "main.4e56a43d.css.map": "/futranking/static/css/main.4e56a43d.css.map",
-    "main.a7db9722.js.map": "/futranking/static/js/main.a7db9722.js.map"
+    "main.435a1995.js.map": "/futranking/static/js/main.435a1995.js.map"
   },
   "entrypoints": [
     "static/css/main.4e56a43d.css",
-    "static/js/main.a7db9722.js"
+    "static/js/main.435a1995.js"
   ]
 }
