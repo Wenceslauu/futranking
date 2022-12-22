@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/futranking/static/css/main.4e56a43d.css",
-    "main.js": "/futranking/static/js/main.435a1995.js",
+    "main.css": "/futranking/static/css/main.2d596543.css",
+    "main.js": "/futranking/static/js/main.ef5000b7.js",
     "index.html": "/futranking/index.html",
-    "main.4e56a43d.css.map": "/futranking/static/css/main.4e56a43d.css.map",
-    "main.435a1995.js.map": "/futranking/static/js/main.435a1995.js.map"
+    "main.2d596543.css.map": "/futranking/static/css/main.2d596543.css.map",
+    "main.ef5000b7.js.map": "/futranking/static/js/main.ef5000b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e56a43d.css",
-    "static/js/main.435a1995.js"
+    "static/css/main.2d596543.css",
+    "static/js/main.ef5000b7.js"
   ]
 }
