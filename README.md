@@ -1,3 +1,11 @@
+> :warning: **Doesn't work with CORS enabled**:  
+Press Windows + R and type the following command to open Chrome with CORS disabled:  
+chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security
+
+[Live Demo](https://wenceslauu.github.io/futranking)
+
+[API](https://github.com/enzoalencar/futranking-api)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
